@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  user_id: MyString
+  client_name: MyString
+  email: MyString
+  password: MyString
+  receive_email: false
+  date_joined: 2012-11-28
+  product: 
+
+two:
+  user_id: MyString
+  client_name: MyString
+  email: MyString
+  password: MyString
+  receive_email: false
+  date_joined: 2012-11-28
+  product: 
